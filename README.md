@@ -1,5 +1,6 @@
 # django_polls
 Polls Web Application, vote on questions
+
 Users will be able to vote on their favorite choices
 
 # Setup
